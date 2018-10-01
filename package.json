@@ -1,0 +1,19 @@
+{
+  "name": "@GoogleWebComponents/google-map",
+  "version": "1.0.0",
+  "description": "A google-map web component",
+  "main": "index.html",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lechinoix/google-map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lechinoix/google-map/issues"
+  },
+  "homepage": "https://github.com/lechinoix/google-map#readme"
+}
